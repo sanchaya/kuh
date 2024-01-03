@@ -1,6 +1,6 @@
-# ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯು
+# ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯ
 
-ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯು is a showcase of the #ServantsOfKnowledge project works @Sanchaya
+ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯ is a showcase of the #ServantsOfKnowledge project works @Sanchaya
 
 Check it out : https://sanchaya.org & https://sanchifoundation.org
 
@@ -27,6 +27,3 @@ Each book has its own licence, see book homepage.
 
 ## About us
 ‘Sanchaya’ was born with an intent to make an impact in the area of Kannada & Technology. ‘Sanchaya’ is exploring the possibilities of using technology in Linguistics and Literary research. Tools designed and developed by ‘Sanchaya’ is available for the larger community through Internet and Mobile platforms. ‘Vachana Sanchaya’ is a platform built to enable research on Vachana Literature which is already available for public. We have dreams to build many more such initiatives. Projects binding both Literary & Technology Knowledge through our platforms are based on the inspiration of creating atmosphere around Free Information & Free Knowledge through Free Software. Sanchaya is a not for profit platform working around building the technological capacity around Kannada Literary research.
-# pvn
-# kvn
-# kuh
