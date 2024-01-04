@@ -1,6 +1,6 @@
-# ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯ
+# ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯ
 
-ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯ is a showcase of the #ServantsOfKnowledge project works @Sanchaya
+ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ ಪ್ರಕಟಣೆಗಳ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಚಯ is a showcase of the #ServantsOfKnowledge project works @Sanchaya
 
 Check it out : https://sanchaya.org & https://sanchifoundation.org
 
